@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover": "https://example.com/images/book1.jpg",
+        "title": "The Enchanted Forest",
+        "author": "John Doe",
+        "author_img": "https://example.com/images/author1.jpg",
+        "posted_date": "2024-09-01",
+        "reading_time": 15,
+        "hashtags": [
+            "#fantasy",
+            "#adventure",
+            "#magic"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/2YwT9QW/123.jpg",
+        "title": "Winds of Change",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co.com/2YwT9QW/123.jpg",
+        "posted_date": "2024-08-15",
+        "reading_time": 10,
+        "hashtags": [
+            "#romance",
+            "#drama",
+            "#life"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/2YwT9QW/123.jpg",
+        "title": "Secrets of the Deep",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co.com/2YwT9QW/123.jpg",
+        "posted_date": "2024-07-30",
+        "reading_time": 8,
+        "hashtags": [
+            "#mystery",
+            "#ocean",
+            "#thriller"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/2YwT9QW/123.jpg",
+        "title": "Journey to the Stars",
+        "author": "Michael Lee",
+        "author_img": "https://i.ibb.co.com/2YwT9QW/123.jpg",
+        "posted_date": "2024-06-10",
+        "reading_time": 12,
+        "hashtags": [
+            "#sci-fi",
+            "#space",
+            "#exploration"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co.com/2YwT9QW/123.jpg",
+        "title": "Tales of the Forgotten",
+        "author": "Emily Davis",
+        "author_img": "https://i.ibb.co.com/2YwT9QW/123.jpg",
+        "posted_date": "2024-05-25",
+        "reading_time": 9,
+        "hashtags": [
+            "#historical",
+            "#mystery",
+            "#drama"
+        ]
+    }
+]
